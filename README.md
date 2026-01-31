@@ -1,6 +1,4 @@
-Certainly! Below is a basic README template for your API. You can customize it based on your specific use case, features, and deployment details.
 
----
 
 # Officer Information API
 
